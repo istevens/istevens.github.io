@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Yes, This Is Ian Stevens</title><link href="//istevens.github.io/" rel="alternate"></link><link href="//istevens.github.io/feeds/all.atom.xml" rel="self"></link><id>//istevens.github.io/</id><updated>2016-09-01T14:14:00-04:00</updated><entry><title>Digital cameras I have owned</title><link href="//istevens.github.io/daily250/digital-cameras-i-have-owned.html" rel="alternate"></link><updated>2016-09-01T14:14:00-04:00</updated><author><name>Ian Stevens</name></author><id>tag:istevens.github.io,2016-09-01:daily250/digital-cameras-i-have-owned.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="//istevens.github.io/daily250/film-cameras-i-have-owned.html"&gt;I've owned at least three film cameras&lt;/a&gt; in my life, and four digital cameras in
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Yes, This Is Ian Stevens</title><link href="//istevens.github.io/" rel="alternate"></link><link href="//istevens.github.io/feeds/all.atom.xml" rel="self"></link><id>//istevens.github.io/</id><updated>2016-09-02T15:34:00-04:00</updated><entry><title>Over twenty years on, why I still code HTML</title><link href="//istevens.github.io/daily250/over-twenty-years-on-why-i-still-code-html.html" rel="alternate"></link><updated>2016-09-02T15:34:00-04:00</updated><author><name>Ian Stevens</name></author><id>tag:istevens.github.io,2016-09-02:daily250/over-twenty-years-on-why-i-still-code-html.html</id><summary type="html">&lt;p&gt;This 250-word a day blog is currently powered by &lt;a class="reference external" href="http://getpelican.com"&gt;Pelican&lt;/a&gt;, a static site generator for blogs. As with the vast
+majority of blog software, Pelican lets you select themes for your site. Dozens
+of themes are available, written by other Pelican users. You can also write
+your own theme, which is what I chose to do.&lt;/p&gt;
+&lt;p&gt;Why would I do this? Why would I voluntarily decide to create work for myself,
+use my precious free time to bang out template code and HTML, all while relying
+on technical documentation which, based on my experience using free software,
+is likely to be poorly-written and incomplete? Good question.&lt;/p&gt;
+&lt;p&gt;I have been typing words enclosed in angle brackets for almost as long as
+graphical web browsers have been parsing them. The &lt;a class="reference external" href="http://www.ncsa.illinois.edu/enabling/mosaic"&gt;Mosaic browser&lt;/a&gt; was released in early 1993; I
+wrote my first HTML tag likely in late 1994 or early 1995. HTML has been a
+staple in my language stack longer than any other language I've used. The only
+other technology which even comes close is shell scripting, although I've
+switched shell languages several times over the years.&lt;/p&gt;
+&lt;p&gt;A large part of why I still code HTML is control. I need to know that web sites
+which carry my name have &lt;em&gt;the best HTML&lt;/em&gt;. I respect bandwidth, so HTTP payloads
+served by my sites need to be slim. I respect document semantics, so HTML my
+sites serve needs to reflect the nature of the content. Many web sites, even
+simple blogs, force far too much data on end users, and often include
+JavaScript which slows page processing and rendering. Many themes for web
+content use outdated semantics for content (like nested &lt;tt class="docutils literal"&gt;&amp;lt;div&amp;gt;&lt;/tt&gt; tags instead
+of &lt;tt class="docutils literal"&gt;&amp;lt;section&amp;gt;&lt;/tt&gt; and &lt;tt class="docutils literal"&gt;&amp;lt;article&amp;gt;&lt;/tt&gt; tags). These things matter to me.&lt;/p&gt;
+&lt;p&gt;My web properties are an online extension of myself and should reflect my
+aesthetic. I fully expect anyone looking to evaluate me on a technical level
+— such as potential employers — to view source on my online offerings to do so.
+Although I am well over a decade removed from having HTML in my job
+description, for whatever reason I think it matters that I get my hands dirty
+once in a while for everyone to see. I should probably let go of that.&lt;/p&gt;
+</summary></entry><entry><title>Digital cameras I have owned</title><link href="//istevens.github.io/daily250/digital-cameras-i-have-owned.html" rel="alternate"></link><updated>2016-09-01T14:14:00-04:00</updated><author><name>Ian Stevens</name></author><id>tag:istevens.github.io,2016-09-01:daily250/digital-cameras-i-have-owned.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="//istevens.github.io/daily250/film-cameras-i-have-owned.html"&gt;I've owned at least three film cameras&lt;/a&gt; in my life, and four digital cameras in
 the past fifteen years. This is the nature of digital. Film cameras can remain
 useful until they break, yet a digital camera will likely lose its usefulness
 once it lags behind cameras new to the market. Every digital camera I have
